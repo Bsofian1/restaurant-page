@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url("../img/background.jpg");
+  background-image: url("https://github.com/Bsofian1/restaurant-page/blob/main/img/background.jpg");
   display: grid;
   place-items: center;
 }
